@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://www.akshatkumarcse.github.io/sitemap.xml
+Sitemap: https://akshatkumarcse.github.io/sitemap.xml
